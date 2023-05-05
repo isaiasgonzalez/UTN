@@ -29,5 +29,6 @@ int main() {
         std::cout << "Los valores ingresados son iguales";
     }
     
+    return 0;
 
 }

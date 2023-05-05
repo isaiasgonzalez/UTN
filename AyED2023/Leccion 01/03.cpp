@@ -29,4 +29,6 @@ int main() {
     resultado = ( n / 5 ) / 7;
     std::cout << "La septima parte de la quinta parte de " << n << " es: " << resultado << std::endl;
 
+    return 0;
+
 }
